@@ -1,0 +1,19 @@
+html {
+  font: 10vw sans-serif;
+  user-select: none;
+  -moz-user-select: none;
+}
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+body {
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  background: #D81927;
+}
